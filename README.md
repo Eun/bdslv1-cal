@@ -1,0 +1,1 @@
+[Drag this to your bookmark bar](javascript:(function(){let e=document.createElement("script");e.type="text/javascript",e.src="https://eun.github.io/bdslv1-cal/cal.js",document.getElementsByTagName("head")[0].appendChild(e)}()))
