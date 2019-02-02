@@ -1,4 +1,4 @@
-// javascript:(function(){let e=document.createElement("script");e.type="text/javascript",e.src="https://cd659b60.ngrok.io/cal.js",document.getElementsByTagName("head")[0].appendChild(e)}())
+// javascript:(function(){let e=document.createElement("script");e.type="text/javascript",e.src="https://eun.github.io/bdslv1-cal/cal.js",document.getElementsByTagName("head")[0].appendChild(e)}())
 
 (function() {
     function addScript(url, done) {
